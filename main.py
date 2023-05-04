@@ -1,10 +1,10 @@
 import requests
 from twilio.rest import Client
 
-twilio_sid = "ACc29cfb9acc94e19b7d7196775d863aba"
-auth_token = "403ab48cbc17de3f3a1385f1bad7e135"
+twilio_sid = "INSERT ID"
+auth_token = "INSERT TOKEN"
 
-api_key = "b647705466719a737a167601b28aefa3"
+api_key = "INSERT KEY"
 owm_endpoint = "https://api.openweathermap.org/data/2.5/forecast"
 
 
